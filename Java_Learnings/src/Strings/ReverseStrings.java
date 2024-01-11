@@ -11,7 +11,11 @@ public class ReverseStrings {
 		int num = 98765454;		
 		int reverse=ReverseInteger(num);
 		System.out.println(reverse);
+		
+		int[] arr = {1,2,3,4,5,6,7};
 
+	
+	
 	}
 
 	public static String ReverseString(String string){
